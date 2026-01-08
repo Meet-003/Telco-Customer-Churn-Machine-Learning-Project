@@ -1,7 +1,5 @@
 # Telco-Customer-Churn-Machine-Learning-Project
 
-# Customer Churn Prediction using Machine Learning
-
 ## 📌 Project Overview
 This project focuses on building an **end-to-end machine learning pipeline** to predict customer churn using the **Telco Customer Churn dataset**.  
 Customer churn prediction is a critical business problem where the goal is to identify customers who are likely to leave a service.
