@@ -9,7 +9,7 @@ The project emphasizes **real-world data preprocessing**, **handling class imbal
 ---
 
 ## 📊 Dataset
-- **Source:** Kaggle – Telco Customer Churn Dataset  https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+- **Source:** Kaggle – [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **Rows:** ~7,000 customers  
 - **Target Variable:** `Churn` (Yes / No)
 
